@@ -12,7 +12,7 @@
 #
 ##############################################################################
 name = "zc.buildout"
-version = "1.6.0"
+version = "1.6.0-fix-lp144228"
 
 import os
 from setuptools import setup
